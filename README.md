@@ -1,4 +1,4 @@
-# Workout Server
+# Workout Backend
 
 Backend for the **Workout** educational project.
 
